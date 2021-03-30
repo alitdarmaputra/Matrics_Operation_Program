@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-/*  Nama : I Made ALit Darma Putra
-    Nim  : 2008561045
-    Kelas: E
-*/
-
 int main () {
     int pilih, a, b, c, d, k;
     printf("\tProgram Operasi Matriks\n");
